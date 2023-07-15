@@ -1,13 +1,13 @@
-# Ansh Joshi:
+# Ansh Joshi
 
 👋 Hello! I'm Ansh Joshi, a passionate and dedicated computer science engineering. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🎓 Pursuing Bachelor's of Computer Science Engineering from Acropolis Institute of Technology & Research, Indore (M.P.), affiliated with RGPV.
-- 📚 Currently in the professional qualifications phase, expecting to graduate in 2024.
-- 🌟 Tech enthusiast with a keen interest in webapp development and software engineering.
-- 💡 Constantly learning and exploring new technologies to enhance my skills.
+🎓 Pursuing Bachelor's of Computer Science Engineering from Acropolis Institute of Technology & Research, Indore (M.P.), affiliated with RGPV.
+📚 Currently in the professional qualifications phase, expecting to graduate in 2024.
+🌟 Tech enthusiast with a keen interest in webapp development and software engineering.
+💡 Constantly learning and exploring new technologies to enhance my skills.
 
 ## Skills
 
