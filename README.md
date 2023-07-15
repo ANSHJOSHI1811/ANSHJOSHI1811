@@ -1,6 +1,6 @@
 # Ansh Joshi:
 
-👋 Hello! I'm Ansh Joshi, a passionate and dedicated computer science engineering student based in Surat, Gujarat. Welcome to my GitHub profile!
+👋 Hello! I'm Ansh Joshi, a passionate and dedicated computer science engineering. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -22,6 +22,6 @@
 
 - 📧 Email: anshsjoshi@outlook.com
 - 🌐 LinkedIn: [linkedin.com/in/Ansh-Joshi](https://linkedin.com/in/Ansh-Joshi)
-- 💻 GitHub: [github.com/ANSHJOSHI1811](https://github.com/ANSHJOSHI1811)
+- 💻 Portfolio: [anshjoshi.vercel.app](https://anshjoshi.vercel.app)
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect! 😊
