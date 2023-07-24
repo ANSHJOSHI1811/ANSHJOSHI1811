@@ -1,6 +1,6 @@
 # Ansh Joshi
 
-👋 Hello! I'm Ansh Joshi, a passionate and dedicated computer science engineering. Welcome to my GitHub profile!
+👋 Hello! I'm Ansh Joshi,Welcome to my GitHub profile!
 
 ## About Me
 
