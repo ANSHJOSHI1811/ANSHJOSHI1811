@@ -23,8 +23,8 @@ Constantly learning and exploring new technologies to enhance my skills.
 
 ## Contact Me
 
-- 📧 Email: anshsjoshi@outlook.com
-- 🌐 LinkedIn: [linkedin.com/in/Ansh-Joshi](https://linkedin.com/in/Ansh-Joshi)
-- 💻 Portfolio: [anshjoshi.vercel.app](https://anshjoshi.vercel.app)
+- Email: anshsjoshi@outlook.com
+- LinkedIn: [linkedin.com/in/Ansh-Joshi](https://linkedin.com/in/Ansh-Joshi)
+- Portfolio: [anshjoshi.vercel.app](https://anshjoshi.vercel.app)
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect! 
