@@ -4,13 +4,13 @@
 
 ## About Me
 
-🎓 Pursuing Bachelor's of Computer Science Engineering from Acropolis Institute of Technology & Research, Indore (M.P.), affiliated with RGPV.
+Pursuing Bachelor's of Computer Science Engineering from Acropolis Institute of Technology & Research, Indore (M.P.), affiliated with RGPV.
 
-📚 Currently in the professional qualifications phase, expecting to graduate in 2024.
+Currently in the professional qualifications phase, expecting to graduate in 2024.
 
-🌟 Tech enthusiast with a keen interest in webapp development and software engineering.
+Tech enthusiast with a keen interest in webapp development and software engineering.
 
-💡 Constantly learning and exploring new technologies to enhance my skills.
+Constantly learning and exploring new technologies to enhance my skills.
 
 ## Skills
 
@@ -27,4 +27,4 @@
 - 🌐 LinkedIn: [linkedin.com/in/Ansh-Joshi](https://linkedin.com/in/Ansh-Joshi)
 - 💻 Portfolio: [anshjoshi.vercel.app](https://anshjoshi.vercel.app)
 
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect! 😊
+Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect! 
