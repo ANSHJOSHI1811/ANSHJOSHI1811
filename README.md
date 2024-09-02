@@ -2,19 +2,9 @@
 
 👋 Hello! I'm Ansh Joshi,Welcome to my GitHub profile!
 
-## About Me
-
-Pursuing Bachelor's of Computer Science Engineering from Acropolis Institute of Technology & Research, Indore (M.P.), affiliated with RGPV.
-
-Currently in the professional qualifications phase, expecting to graduate in 2024.
-
-Tech enthusiast with a keen interest in webapp development and software engineering.
-
-Constantly learning and exploring new technologies to enhance my skills.
-
 ## Skills
 
-- **Languages:** C, C++, PHP, JavaScript.
+- **Languages:** C, C++, PHP, JavaScript,Go lang.
 - **Databases:** MySQL, MongoDB, MariaDB, DBMS.
 - **Cloud:** AWS: S3, EC2, IAM, EBS, RDS.
 - **Framework Libraries:** JQuery, ReactJS, Redux, Express, Node.js.
